@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{DE4926EC-7358-46DC-B833-A7DC259F8325}|Default">
+  <MonoDevelop.Ide.ItemProperties.IntergerDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FloatingPointDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FloatingPointDataTypes/EntryPoint.cs">
+    <Files>
+      <File FileName="FloatingPointDataTypes/Program.cs" Line="17" Column="39" />
+      <File FileName="IntergerDataTypes/EntryPoint.cs" Line="20" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrimativeDataTypes" expanded="True">
+            <Node name="FloatingPointDataTypes" expanded="True">
+              <Node name="EntryPoint.cs" selected="True" />
+            </Node>
+            <Node name="IntergerDataTypes" expanded="True" />
+            <Node name="Variables" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Variables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

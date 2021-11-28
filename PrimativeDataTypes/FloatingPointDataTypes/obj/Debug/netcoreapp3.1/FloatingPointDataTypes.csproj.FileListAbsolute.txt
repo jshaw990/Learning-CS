@@ -1,0 +1,12 @@
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/bin/Debug/netcoreapp3.1/FloatingPointDataTypes.deps.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/bin/Debug/netcoreapp3.1/FloatingPointDataTypes.runtimeconfig.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/bin/Debug/netcoreapp3.1/FloatingPointDataTypes.runtimeconfig.dev.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/bin/Debug/netcoreapp3.1/FloatingPointDataTypes.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/bin/Debug/netcoreapp3.1/FloatingPointDataTypes.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/obj/Debug/netcoreapp3.1/FloatingPointDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/obj/Debug/netcoreapp3.1/FloatingPointDataTypes.AssemblyInfoInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/obj/Debug/netcoreapp3.1/FloatingPointDataTypes.AssemblyInfo.cs
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/obj/Debug/netcoreapp3.1/FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/obj/Debug/netcoreapp3.1/FloatingPointDataTypes.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/obj/Debug/netcoreapp3.1/FloatingPointDataTypes.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/FloatingPointDataTypes/obj/Debug/netcoreapp3.1/FloatingPointDataTypes.genruntimeconfig.cache
