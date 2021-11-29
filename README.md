@@ -4,9 +4,9 @@
 [Jayden Shaw](https://jaydenshaw.com)
 
 ## Sections
-1. [Hello World](/HelloWorld)
+1. [Hello World](/HelloWorld/HelloWorld/EntryPoint.cs)
 2. [Data Types](/PrimativeDataTypes)
-    1. [Variables](/PrimativeDataTypes/Variables)
-    2. [Intergers](/PrimativeDataTypes/IntergerDataTypes)
-    3. [Floats](/PrimativeDataTypes/IntergerDataTypes)
-    4. [Booleans](/PrimativeDataTypes/BooleanDataTypes)
+    1. [Variables](/PrimativeDataTypes/Variables/EntryPoint.cs)
+    2. [Intergers](/PrimativeDataTypes/IntergerDataTypes/EntryPoint.cs)
+    3. [Floats](/PrimativeDataTypes/IntergerDataTypes/EntryPoint.cs)
+    4. [Booleans](/PrimativeDataTypes/BooleanDataTypes/EntryPoint.cs)
