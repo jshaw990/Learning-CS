@@ -1,0 +1,12 @@
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/bin/Debug/netcoreapp3.1/BooleanDataTypes.deps.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/bin/Debug/netcoreapp3.1/BooleanDataTypes.runtimeconfig.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/bin/Debug/netcoreapp3.1/BooleanDataTypes.runtimeconfig.dev.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/bin/Debug/netcoreapp3.1/BooleanDataTypes.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/bin/Debug/netcoreapp3.1/BooleanDataTypes.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/obj/Debug/netcoreapp3.1/BooleanDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/obj/Debug/netcoreapp3.1/BooleanDataTypes.AssemblyInfoInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/obj/Debug/netcoreapp3.1/BooleanDataTypes.AssemblyInfo.cs
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/obj/Debug/netcoreapp3.1/BooleanDataTypes.csproj.CoreCompileInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/obj/Debug/netcoreapp3.1/BooleanDataTypes.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/obj/Debug/netcoreapp3.1/BooleanDataTypes.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/BooleanDataTypes/obj/Debug/netcoreapp3.1/BooleanDataTypes.genruntimeconfig.cache

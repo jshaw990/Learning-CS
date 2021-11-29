@@ -9,3 +9,4 @@
     1. [Variables](/PrimativeDataTypes/Variables)
     2. [Intergers](/PrimativeDataTypes/IntergerDataTypes)
     3. [Floats](/PrimativeDataTypes/IntergerDataTypes)
+    4. [Booleans](/PrimativeDataTypes/BooleanDataTypes)
