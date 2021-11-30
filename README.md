@@ -12,4 +12,5 @@
     4. [Booleans](/PrimativeDataTypes/BooleanDataTypes/EntryPoint.cs)
     5. [Single Character Strings](/PrimativeDataTypes/CharacterDataTypes/EntryPoint.cs)
     6. [Strings](/PrimativeDataTypes/StringDataTypes/EntryPoint.cs)
-    7. [Tricks with Strings](/PrimativeDataTypes/TricksWithStrings/EntryPoint.cs)
+    7. [Arrays](/PrimativeDataTypes/ArrayDataTypes/EntryPoint.cs)
+    8. [Tricks with Strings](/PrimativeDataTypes/TricksWithStrings/EntryPoint.cs)
