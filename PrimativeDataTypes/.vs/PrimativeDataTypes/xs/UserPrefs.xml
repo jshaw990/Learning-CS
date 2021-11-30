@@ -1,22 +1,25 @@
-﻿<Properties StartupConfiguration="{EC125404-8AE6-4237-9262-9B7E93908849}|Default">
-  <MonoDevelop.Ide.ItemProperties.BooleanDataTypes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{00E76246-7FE2-4380-842D-38979830E10A}|Default">
+  <MonoDevelop.Ide.ItemProperties.BooleanDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.IntergerDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FloatingPointDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BooleanDataTypes/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.TricksWithStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TricksWithStrings/Program.cs">
     <Files>
-      <File FileName="FloatingPointDataTypes/Program.cs" Line="59" Column="59" />
-      <File FileName="IntergerDataTypes/EntryPoint.cs" Line="20" Column="9" />
-      <File FileName="BooleanDataTypes/Program.cs" Line="1" Column="1" />
+      <File FileName="TricksWithStrings/Program.cs" Line="3" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PrimativeDataTypes" expanded="True">
-            <Node name="BooleanDataTypes" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="ArrayDataTypes" expanded="True" />
+            <Node name="BooleanDataTypes" expanded="True" />
+            <Node name="CharacterDataTypes" expanded="True" />
             <Node name="FloatingPointDataTypes" expanded="True" />
             <Node name="IntergerDataTypes" expanded="True" />
+            <Node name="StringDataTypes" expanded="True" />
+            <Node name="TricksWithStrings" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="Variables" expanded="True">
               <Node name="Dependencies" expanded="True" />
             </Node>
@@ -26,10 +29,13 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Variables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ArrayDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CharacterDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StringDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

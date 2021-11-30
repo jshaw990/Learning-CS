@@ -1,0 +1,12 @@
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/bin/Debug/netcoreapp3.1/TricksWithStrings.deps.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/bin/Debug/netcoreapp3.1/TricksWithStrings.runtimeconfig.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/bin/Debug/netcoreapp3.1/TricksWithStrings.runtimeconfig.dev.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/bin/Debug/netcoreapp3.1/TricksWithStrings.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/bin/Debug/netcoreapp3.1/TricksWithStrings.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/obj/Debug/netcoreapp3.1/TricksWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/obj/Debug/netcoreapp3.1/TricksWithStrings.AssemblyInfoInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/obj/Debug/netcoreapp3.1/TricksWithStrings.AssemblyInfo.cs
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/obj/Debug/netcoreapp3.1/TricksWithStrings.csproj.CoreCompileInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/obj/Debug/netcoreapp3.1/TricksWithStrings.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/obj/Debug/netcoreapp3.1/TricksWithStrings.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/TricksWithStrings/obj/Debug/netcoreapp3.1/TricksWithStrings.genruntimeconfig.cache
