@@ -1,0 +1,13 @@
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/bin/Debug/netcoreapp3.1/StringBuilding.deps.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/bin/Debug/netcoreapp3.1/StringBuilding.runtimeconfig.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/bin/Debug/netcoreapp3.1/StringBuilding.runtimeconfig.dev.json
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/bin/Debug/netcoreapp3.1/StringBuilding.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/bin/Debug/netcoreapp3.1/StringBuilding.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.csproj.AssemblyReference.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.AssemblyInfoInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.AssemblyInfo.cs
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.csproj.CoreCompileInputs.cache
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.dll
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.pdb
+/Users/jaydenshaw/dev/learning-cs/PrimativeDataTypes/StringBuilding/obj/Debug/netcoreapp3.1/StringBuilding.genruntimeconfig.cache

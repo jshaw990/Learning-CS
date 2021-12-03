@@ -1,36 +1,33 @@
-﻿<Properties StartupConfiguration="{00E76246-7FE2-4380-842D-38979830E10A}|Default">
+﻿<Properties StartupConfiguration="{BDCD3E61-6721-441B-B69F-6A5FB6D3113F}|Default">
   <MonoDevelop.Ide.ItemProperties.BooleanDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.IntergerDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FloatingPointDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TricksWithStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TricksWithStrings/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.TricksWithStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StringBuilding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Converting/EntryPoint.cs">
     <Files>
-      <File FileName="TricksWithStrings/Program.cs" Line="3" Column="16" />
+      <File FileName="StringBuilding/Program.cs" Line="25" Column="108" />
+      <File FileName="Converting/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PrimativeDataTypes" expanded="True">
-            <Node name="ArrayDataTypes" expanded="True" />
-            <Node name="BooleanDataTypes" expanded="True" />
-            <Node name="CharacterDataTypes" expanded="True" />
-            <Node name="FloatingPointDataTypes" expanded="True" />
-            <Node name="IntergerDataTypes" expanded="True" />
-            <Node name="StringDataTypes" expanded="True" />
-            <Node name="TricksWithStrings" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Converting" expanded="True">
+              <Node name="EntryPoint.cs" selected="True" />
             </Node>
-            <Node name="Variables" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
+            <Node name="StringBuilding" expanded="True" />
+            <Node name="ToString" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ToString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ArrayDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CharacterDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Converting FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
