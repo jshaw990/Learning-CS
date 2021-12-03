@@ -1,0 +1,13 @@
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/bin/Debug/netcoreapp3.1/Escaping.deps.json
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/bin/Debug/netcoreapp3.1/Escaping.runtimeconfig.json
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/bin/Debug/netcoreapp3.1/Escaping.runtimeconfig.dev.json
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/bin/Debug/netcoreapp3.1/Escaping.dll
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/bin/Debug/netcoreapp3.1/Escaping.pdb
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.csproj.AssemblyReference.cache
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.AssemblyInfoInputs.cache
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.AssemblyInfo.cs
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.csproj.CoreCompileInputs.cache
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.dll
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.pdb
+/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/Debug/netcoreapp3.1/Escaping.genruntimeconfig.cache

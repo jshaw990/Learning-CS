@@ -17,3 +17,6 @@
     9. [Transforming ToString](/PrimativeDataTypes/ToString/EntryPoint.cs)
     10. [Ways to Build Strings](/PrimativeDataTypes/StringBuilding/EntryPoint.cs)
     11. [Converting, Parsing, and Typecasting](/PrimativeDataTypes/Converting/EntryPoint.cs)
+3. [Working with the Console](/TheConsole)
+    1. [Write & WriteLine](/TheConsole/WriteAndWriteLine/EntryPoint.cs)
+    2. [Escaping Special Characters](/TheConsole/Escaping/EntryPoint.cs)
