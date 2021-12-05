@@ -3,6 +3,9 @@
 ## Author 
 [Jayden Shaw](https://jaydenshaw.com)
 
+## Course
+[The Complete C# Programming Course](https://www.udemy.com/course/the-complete-csharp-programming-course/)
+
 ## Sections
 1. [Hello World](/HelloWorld/HelloWorld/EntryPoint.cs)
 2. [Data Types](/PrimativeDataTypes)
@@ -20,3 +23,4 @@
 3. [Working with the Console](/TheConsole)
     1. [Write & WriteLine](/TheConsole/WriteAndWriteLine/EntryPoint.cs)
     2. [Escaping Special Characters](/TheConsole/Escaping/EntryPoint.cs)
+
