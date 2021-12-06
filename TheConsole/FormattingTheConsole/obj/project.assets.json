@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/Escaping.csproj",
-      "projectName": "Escaping",
-      "projectPath": "/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/Escaping.csproj",
+      "projectUniqueName": "/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/FormattingTheConsole.csproj",
+      "projectName": "FormattingTheConsole",
+      "projectPath": "/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/FormattingTheConsole.csproj",
       "packagesPath": "/Users/jaydenshaw/.nuget/packages/",
-      "outputPath": "/Users/jaydenshaw/dev/learning-cs/TheConsole/Escaping/obj/",
+      "outputPath": "/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jaydenshaw/.config/NuGet/NuGet.Config"

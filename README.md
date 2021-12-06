@@ -23,4 +23,5 @@
 3. [Working with the Console](/TheConsole)
     1. [Write & WriteLine](/TheConsole/WriteAndWriteLine/EntryPoint.cs)
     2. [Escaping Special Characters](/TheConsole/Escaping/EntryPoint.cs)
+    3. [Formatting the Console](/TheConsole/FormattingTheConsole/EntryPoint.cs)
 

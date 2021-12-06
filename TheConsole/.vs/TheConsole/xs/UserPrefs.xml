@@ -1,15 +1,16 @@
-﻿<Properties StartupConfiguration="{A0EDFD3A-C797-4000-8EA2-0E850E6C68B3}|Default">
+﻿<Properties StartupConfiguration="{6034A84D-1FAA-499F-92A8-402466C251D7}|Default">
   <MonoDevelop.Ide.ItemProperties.WriteAndWriteLine PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Escaping/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormattingTheConsole/Program.cs">
     <Files>
-      <File FileName="WriteAndWriteLine/Program.cs" Line="38" Column="2" />
-      <File FileName="Escaping/Program.cs" Line="3" Column="5" />
+      <File FileName="WriteAndWriteLine/EntryPoint.cs" Line="16" Column="40" />
+      <File FileName="FormattingTheConsole/Program.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TheConsole" expanded="True">
-            <Node name="Escaping" expanded="True">
+            <Node name="Escaping" expanded="True" />
+            <Node name="FormattingTheConsole" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="WriteAndWriteLine" expanded="True" />
@@ -24,5 +25,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FormattingTheConsole FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

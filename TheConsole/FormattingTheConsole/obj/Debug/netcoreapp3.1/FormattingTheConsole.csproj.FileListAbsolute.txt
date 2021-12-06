@@ -1,0 +1,12 @@
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/bin/Debug/netcoreapp3.1/FormattingTheConsole.deps.json
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/bin/Debug/netcoreapp3.1/FormattingTheConsole.runtimeconfig.json
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/bin/Debug/netcoreapp3.1/FormattingTheConsole.runtimeconfig.dev.json
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/bin/Debug/netcoreapp3.1/FormattingTheConsole.dll
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/bin/Debug/netcoreapp3.1/FormattingTheConsole.pdb
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/Debug/netcoreapp3.1/FormattingTheConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/Debug/netcoreapp3.1/FormattingTheConsole.AssemblyInfoInputs.cache
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/Debug/netcoreapp3.1/FormattingTheConsole.AssemblyInfo.cs
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/Debug/netcoreapp3.1/FormattingTheConsole.csproj.CoreCompileInputs.cache
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/Debug/netcoreapp3.1/FormattingTheConsole.dll
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/Debug/netcoreapp3.1/FormattingTheConsole.pdb
+/Users/jaydenshaw/dev/learning-cs/TheConsole/FormattingTheConsole/obj/Debug/netcoreapp3.1/FormattingTheConsole.genruntimeconfig.cache
